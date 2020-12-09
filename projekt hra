@@ -1,0 +1,9 @@
+int a = 12
+                if(a<12);
+                    System.out.println(chyba);
+                    else if (a>1);
+            System.out.println("odhalenim miny sa hra nekonci);
+                    else if (a>2)
+                        System.out.println("odhalenim prazdneho stvorceka alebo cisla hra pokracuje");
+                    else if (a>3) System.out.println("Číslo v políčku signalizuje, koľko mín sa nachádza v ôsmich okolitých poliach okolo neho");
+                    else if (a>4) System.out.println("Na označenie mín sa používa zástava, ktorú hráč umiestni kliknutím pravého tlačidla myši");
